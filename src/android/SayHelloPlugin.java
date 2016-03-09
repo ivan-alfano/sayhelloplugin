@@ -1,4 +1,4 @@
-package com.CordovaPlugin;
+package com.cordovaplugin;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
