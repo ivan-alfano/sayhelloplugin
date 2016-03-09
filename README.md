@@ -1,0 +1,2 @@
+# sayhelloplugin
+Cordova plugin example
