@@ -18,7 +18,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="sayhelloplugin"
+    id="com.cordovaplugin.sayhelloplugin"
     version="0.0.1">
     <name>SayHelloPlugin</name>
     <description>Cordova Test Plugin</description>
