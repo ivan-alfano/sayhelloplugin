@@ -26,7 +26,7 @@
     <keywords>cordova,test</keywords>
     
     <js-module src="www/sayhelloplugin.js" name="SayHelloPlugin">
-        <clobbers target="device" />
+        <clobbers target="sayhelloplugin" />
     </js-module>
 
     <!-- android -->
